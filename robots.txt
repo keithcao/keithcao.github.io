@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /
+Disallow: /keith/wp-content/uploads/*
+Disallow: /keith/wp-admin/*
+Disallow: /keith/intro/*
+Disallow: /keith/intro.html
